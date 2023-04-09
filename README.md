@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="https://preview.redd.it/weta781yavwx.gif?format=mp4&v=enabled&s=f6d20264c2d62e0acbf63482d288e495ee20fc61">
 [![trophy](https://github-profile-trophy.vercel.app/?username=haolu253&column=3&theme=gruvbox&row=2)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
